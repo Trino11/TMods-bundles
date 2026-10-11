@@ -1,5 +1,5 @@
 # Publishes everything under bundles/ as a GitHub Release that TMods reads.
-# See https://github.com/Trino11/TMods-Downloader/blob/main/publish-bundles/README.md
+# Guide: https://github.com/Trino11/TMods-Downloader/blob/main/publish-bundles/README.md
 name: Publish bundles
 
 on:
@@ -24,8 +24,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # bundles-v1 gets every fix to the publisher, but never a change that would break
+      # this repository; those come out as bundles-v2.
       - id: publish
-        uses: Trino11/TMods-Downloader/publish-bundles@main
+        uses: Trino11/TMods-Downloader/publish-bundles@bundles-v1
         with:
           source: bundles
           dry-run: ${{ inputs.dry-run || false }}
