@@ -1,0 +1,8 @@
+{
+  "servers": [
+    {
+      "name": "Survival",
+      "address": "trinosurvival.vultam.host"
+    }
+  ]
+}
