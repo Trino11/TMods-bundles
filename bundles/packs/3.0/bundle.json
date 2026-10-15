@@ -1,0 +1,11 @@
+{
+  "description": "New latests mods",
+  "changelog": "Añade mods de permisos y configuraciones básicas.",
+  "versions": {
+    "mods": "3.0",
+    "schematics": "3.0",
+    "resourcepacks": "3.0",
+    "configs": "3.0",
+    "shaderpacks": "3.0"
+  }
+}
