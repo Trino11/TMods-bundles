@@ -1,0 +1,11 @@
+{
+  "description": "Everything for Fabric 26.3",
+  "changelog": "Packs now install the exact versions of each category, so Home shows them all as up to date after installing.",
+  "versions": {
+    "mods": "2.1.1",
+    "schematics": "1.0.1",
+    "resourcepacks": "1.0.1",
+    "configs": "1.0.1",
+    "shaderpacks": "1.0.1"
+  }
+}
