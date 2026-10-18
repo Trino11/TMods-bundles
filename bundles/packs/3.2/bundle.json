@@ -1,0 +1,10 @@
+{
+  "description": "Bumps some versions, fixes errors",
+  "versions": {
+    "mods": "3.2",
+    "schematics": "3.2",
+    "resourcepacks": "3.2",
+    "configs": "3.2",
+    "shaderpacks": "3.2"
+  }
+}

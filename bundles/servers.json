@@ -3,6 +3,16 @@
     {
       "name": "Survival",
       "address": "trinosurvival.vultam.host"
+    },
+    {
+      "name": "Creative",
+      "address": "survival.trinohost.com:25575",
+      "resourcePack": "enabled"
+    },
+    {
+      "name": "Creative Almacen",
+      "address": "survival.trinohost.com:25576",
+      "resourcePack": "enabled"
     }
   ]
 }
