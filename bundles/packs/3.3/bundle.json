@@ -1,0 +1,10 @@
+{
+  "description": "New schematics, settings",
+  "versions": {
+    "mods": "3.2.1",
+    "schematics": "3.3",
+    "resourcepacks": "3.2",
+    "configs": "3.3",
+    "shaderpacks": "3.2"
+  }
+}
