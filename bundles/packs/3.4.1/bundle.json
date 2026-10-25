@@ -1,0 +1,10 @@
+{
+  "description": "Updates resource pack",
+  "versions": {
+    "mods": "3.4",
+    "schematics": "3.3.1",
+    "resourcepacks": "3.4.1",
+    "configs": "3.4.1",
+    "shaderpacks": "3.4.1"
+  }
+}
