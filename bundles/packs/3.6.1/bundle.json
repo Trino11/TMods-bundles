@@ -1,0 +1,9 @@
+{
+  "versions": {
+    "mods": "3.5",
+    "schematics": "3.6.1",
+    "resourcepacks": "3.4.1",
+    "configs": "3.4.1",
+    "shaderpacks": "3.4.1"
+  }
+}
